@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-portfolio-project-backend",
+  "version": "1.0.0",
+  "description": "The api for my portfolio project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawn-peery/nodejs-portfolio-project-back-end.git"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript"
+  ],
+  "author": "Shawn Peery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawn-peery/nodejs-portfolio-project-back-end/issues"
+  },
+  "homepage": "https://github.com/shawn-peery/nodejs-portfolio-project-back-end#readme"
+}
